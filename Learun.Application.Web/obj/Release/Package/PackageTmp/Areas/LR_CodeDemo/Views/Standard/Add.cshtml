@@ -1,0 +1,927 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>标引新增</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" href="images/favicon.ico" type="image/ico" />
+    <link href="~/Content/webuploader/webuploader.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/layui/layui/css/layui.css" media="all">
+
+    <style>
+
+        @* body {
+            text-align: center;
+        }
+
+        .row {
+            margin-top: 10px;
+            border-bottom: 1px solid #ededed;
+            padding-bottom: 10px;
+        }
+
+        .col-sm-5 {
+            text-align: left;
+        }
+
+        .content {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+            .content.tree {
+                margin-left: 10%;
+            }
+
+        .col-sm-2 {
+        }
+
+        .contentinput {
+            width: 80%;
+            border-radius: 3px;
+            border: 1px solid #000;
+            height: 30px;
+            padding-left: 20px;
+        }
+
+            /*发布日期*/
+            .contentinput.fb {
+                width: 100% !important;
+                padding-left: 0px;
+            }
+            /*实施日期*/
+            .contentinput.ss {
+                width: 100% !important;
+                padding-left: 0px;
+            }
+
+        .bixu {
+            color: red;
+        }
+
+        .shuxingm {
+            color: #000;
+            font-weight: bold;
+        }
+
+        /********************************/
+        h1 {
+            color: #159def;
+        }
+
+
+        .ctable {
+            width: 80%;
+            margin-left: 10%;
+        }
+
+            .ctable tr {
+                border: 1px solid #000;
+            }
+
+            .ctable td {
+                border: 1px solid #000;
+                font-size: 22px;
+                height: 45px;
+            }
+
+        .ctinput {
+            width: 100%;
+            border: none;
+            height: 40px;
+        }
+
+        .ctd {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+            .ctd .bitian {
+                color: red;
+            }*@
+    </style>
+</head>
+<body>
+    <fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+        <legend>标引新增</legend>
+    </fieldset>
+    <div class="content">
+        <form id="standard" class="layui-form" action="">
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">标准号</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="StandNum" lay-verify="required" lay-reqtext="标准号必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">发布日期</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="isd" id="date" lay-reqtext="发布日期必填" lay-verify="required" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">实施日期</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="efd" id="date1" lay-verify="required" lay-reqtext="实施日期必填" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">废止日期</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="AbolitionDate" id="date2" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">中文名称</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="cn" lay-verify="required" lay-reqtext="中文名称必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">英文名称</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="en" lay-verify="required" lay-reqtext="英文名称必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">发布单位</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="PublishingUnit" lay-verify="required" lay-reqtext="发布单位必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">批准单位</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="ApprovedUnit" lay-verify="required" lay-reqtext="批准单位必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">提出单位</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="ProposedUnit" lay-verify="required" lay-reqtext="提出单位必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">起草单位</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="DraftingUnit" lay-verify="required" lay-reqtext="起草单位必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">替代标准</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="SubstituteStandard" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">被替代标准</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="SubstitutedStandard" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">起草人</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="zb_a001" lay-verify="required" lay-reqtext="提出单位必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item layui-form-text">
+                <label class="layui-form-label">适用范围</label>
+                <div class="layui-input-block">
+                    <textarea placeholder="请输入内容" name="scope" class="layui-textarea"></textarea>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">CCS</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="ccs" lay-verify="required" lay-reqtext="CCS必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">ICS</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="ics" lay-verify="required" lay-reqtext="ICS必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">GBN(国标号)</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="gbn" lay-verify="required" lay-reqtext="GBN必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">页数</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="Pages" lay-verify="required|number" lay-reqtext="页数必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">备案号</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="RecordNumber" lay-verify="required" lay-reqtext="备案号必填" placeholder="请输入" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item layui-form-text">
+                <label class="layui-form-label">前言</label>
+                <div class="layui-input-block">
+                    <textarea placeholder="请输入内容" name="preface" class="layui-textarea"></textarea>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">修改日期</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="ModifyDate" id="date3" lay-verify="date" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <label class="layui-form-label">创建日期</label>
+                    <div class="layui-input-inline">
+                        <input type="text" name="CreateTime" id="date4" lay-verify="date" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">题录选择</label>
+                    <div class="layui-input-inline">
+                        <select id="TableName" name="TableName" lay-verify="required" lay-reqtext="题录类型必选" lay-search="">
+                            <option value="">直接选择或搜索选择</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">标准状态</label>
+                <div class="layui-input-block">
+                    <input type="radio" name="StandStatus" value="现行" title="现行" checked="">
+                    <input type="radio" name="StandStatus" value="废止" title="废止">
+                    <input type="radio" name="StandStatus" value="未生效" title="未生效">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">是否免费</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="isfree" lay-skin="switch" lay-text="是|否">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">电子文本来源</label>
+                @*<div class="layui-upload-drag" id="test10">
+                <i class="layui-icon"></i>
+                <p>点击上传，或将文件拖拽到此处</p>
+                <div class="layui-hide" id="uploadDemoView">
+                    <hr>
+                    <img src="" alt="上传成功后渲染" style="max-width: 196px">
+                </div>
+                <button style="display:none" type="button" class="layui-btn" id="test9">开始上传</button>
+            </div>*@
+                <div class="layui-upload">
+                    <button type="button" class="layui-btn layui-btn-normal" id="test8">选择文件</button>
+                    <button type="button" style="display:none" class="layui-btn" id="test9">开始上传</button>
+                    <span id="filename"></span>
+                </div>
+            </div>
+
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">规范性引用文件</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="150">
+                        <col>
+                        <col width="150">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>规范性引用文件条目</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zguifan">
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">附录</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="150">
+                        <col width="150">
+                        <col>
+                        <col width="150">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>附录编号</th>
+                            <th>附录内容</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zfulu">
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">参考文献</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="150">
+                        <col>
+                        <col width="150">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>参考文献条目</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zcankao">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">术语</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col width="100">
+                        <col>
+                        <col width="100">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>条目编号</th>
+                            <th>术语名称</th>
+                            <th>英文名称</th>
+                            <th>术语定义</th>
+                            <th>注</th>
+                            <th>例</th>
+                            <th>图表</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zshuyu">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">目次</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="150">
+                        <col width="150">
+                        <col>
+                        <col width="150">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>目次条目编号</th>
+                            <th>目次条目内容</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zmuci">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="layui-form-item" style="border:1px solid #f2f2f2;border-radius:3px;">
+                <label class="layui-form-label">结构化内容</label>
+                <table class="layui-table" style="width:80%;" lay-even="" lay-skin="nob">
+                    <colgroup>
+                        <col width="150">
+                        <col width="150">
+                        <col width="150">
+                        <col width="150">
+                        <col width="200">
+                        <col>
+                        <col width="150">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th>类型</th>
+                            <th>结构级别</th>
+                            <th>结构编号</th>
+                            <th>结构标题</th>
+                            <th>结构内容</th>
+                            <th>结构图表</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="zjiegou">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button type="button" id="addguifan" class="layui-btn layui-btn-normal">增加规范性引用文件</button>
+                    <button type="button" id="addfulu" class="layui-btn layui-btn-normal">增加附录</button>
+                    <button type="button" id="addcankao" class="layui-btn layui-btn-normal">增加参考文献</button>
+                    <button type="button" id="addshuyu" class="layui-btn layui-btn-normal">增加术语</button>
+                    <button type="button" id="addmuci" class="layui-btn layui-btn-normal">增加目次</button>
+                    <button type="button" id="addjishu" class="layui-btn layui-btn-normal">增加结构化内容</button>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button type="submit" class="layui-btn" lay-submit="" lay-filter="demo1">立即提交</button>
+                    <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+
+
+
+        @* <form  class="layui-form">
+            <table class="ctable">
+                <tr>
+                    <td class="ctd">标准号<font class="bitian" face="宋体">*</font></td>
+                    <td>
+                        <input id="StandNum" class="ctinput" name="StandNum" type="text" value="" required />
+                    </td>
+                    <td class="ctd">发布日期</td>
+                    <td>
+                        <input id="isd" class="ctinput" name="isd" type="datetime" onfocus="WdatePicker()" />
+                    </td>
+                    <td class="ctd">实施日期</td>
+                    <td>
+                        <input id="efd" class="ctinput" name="efd" type="datetime" onfocus="WdatePicker()" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">废止日期</td>
+                    <td colspan="5">
+                        <input id="AbolitionDate" class="ctinput" name="AbolitionDate" onfocus="WdatePicker()" />
+                    </td>
+                    <td class="ctd">确认日期</td>
+                    <td colspan="2">
+                        <input id="ConfirmationDate" class="ctinput" name="ConfirmationDate" onfocus="WdatePicker()" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">中文名称<font class="bitian" face="宋体">*</font></td>
+                    <td colspan="2">
+                        <input id="cn" class="ctinput" name="cn" />
+                    </td>
+                    <td class="ctd">英文名称<font class="bitian" face="宋体">*</font></td>
+                    <td colspan="2">
+                        <input id="en" class="ctinput" name="en" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">原文名称</td>
+                    <td colspan="2">
+                        <input id="OriginalName" class="ctinput" name="OriginalName" />
+                    </td>
+                    <td class="ctd">英文主题词</td>
+                    <td colspan="2">
+                        <input id="EnglishSubjectWords" class="ctinput" name="EnglishSubjectWords" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">中文主题词</td>
+                    <td colspan="2">
+                        <input id="ChineseThemeWords" class="ctinput" name="ChineseThemeWords" />
+                    </td>
+                    <td class="ctd">发布单位</td>
+                    <td colspan="5">
+                        <input id="PublishingUnit" class="ctinput" name="PublishingUnit" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">批准单位</td>
+                    <td>
+                        <input id="ApprovedUnit" class="ctinput" name="ApprovedUnit" />
+                    </td>
+                    <td class="ctd">提出单位</td>
+                    <td>
+                        <input id="ProposedUnit" class="ctinput" name="ProposedUnit" />
+                    </td>
+                    <td class="ctd">起草单位</td>
+                    <td>
+                        <input id="DraftingUnit" class="ctinput" name="DraftingUnit" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">归口单位</td>
+                    <td colspan="2">
+                        <input id="TechnicalCommittees" class="ctinput" name="TechnicalCommittees" />
+                    </td>
+                    <td class="ctd">适用范围</td>
+                    <td colspan="2">
+                        <input id="scope" class="ctinput" name="TechnicalCommittees" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">CCS</td>
+                    <td>
+                        <input id="ccs" class="ctinput" name="ccs" />
+                    </td>
+                    <td class="ctd">ICS</td>
+                    <td>
+                        <input id="ics" class="ctinput" name="ics" />
+                    </td>
+                    <td class="ctd">GBN(国标号)</td>
+                    <td>
+                        <input id="gbn" class="ctinput" name="gbn" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">页数<font class="bitian" face="宋体">*</font></td>
+                    <td>
+                        <input id="Pages" class="ctinput" name="Pages" />
+                    </td>
+                    <td class="ctd">国民经济分类</td>
+                    <td>
+                        <input id="ClassificationEconomy" class="ctinput" type="text" name="ClassificationEconomy" />
+                    </td>
+                    <td class="ctd">备案号</td>
+                    <td colspan="3">
+                        <input id="RecordNumber" class="ctinput" name="RecordNumber" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">标准类型</td>
+                    <td colspan="2">
+                        <input id="StandardType" class="ctinput" name="StandardType" />
+                    </td>
+                    <td class="ctd">前言</td>
+                    <td colspan="5">
+                        <input id="preface" class="ctinput" name="preface" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">全文光盘</td>
+                    <td colspan="2">
+                        <input id="CdRom" class="ctinput" name="CdRom" />
+                    </td>
+                    <td class="ctd">文本地址</td>
+                    <td colspan="2">
+                        <input id="TextAddress" class="ctinput" name="TextAddress" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">引言</td>
+                    <td colspan="2">
+                        <input id="introduction" class="ctinput" name="introduction" />
+                    </td>
+                    <td class="ctd">语种</td>
+                    <td colspan="2">
+                        <input id="Languages" class="ctinput" name="Languages" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">是否有翻译</td>
+                    <td colspan="2">
+                        <input id="IsTranslation" class="ctinput" name="IsTranslation" />
+                    </td>
+                    <td class="ctd">是否有翻译件</td>
+                    <td colspan="2">
+                        <input id="IsTranslationd" class="ctinput" name="IsTranslationd" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">翻译件语种</td>
+                    <td>
+                        <input id="TranslationLanguage" class="ctinput" name="TranslationLanguage" />
+                    </td>
+                    <td class="ctd">标准所在合订本名称</td>
+                    <td>
+                        <input id="NameTheStandard" class="ctinput" name="NameTheStandard" />
+                    </td>
+                    <td class="ctd">所属标委会</td>
+                    <td>
+                        <input id="AffiliatedCommittee" class="ctinput" name="AffiliatedCommittee" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">ISBN</td>
+                    <td>
+                        <input id="ISBN" class="ctinput" name="ISBN" />
+                    </td>
+                    <td class="ctd">首次记录时间</td>
+                    <td>
+                        <input id="FirstRecordingTime" class="ctinput" type="datetime" name="FirstRecordingTime" onfocus="WdatePicker()" />
+                    </td>
+                    <td class="ctd">最后修改时间</td>
+                    <td>
+                        <input id="LastModifyTime" class="ctinput" type="datetime" name="LastModifyTime" onfocus="WdatePicker()" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">馆藏标志</td>
+                    <td>
+                        <input id="CollectionMark" class="ctinput" name="CollectionMark" />
+                    </td>
+                    <td class="ctd">单行本</td>
+                    <td>
+                        <input id="SingleCopy" class="ctinput" name="SingleCopy" />
+                    </td>
+                    <td class="ctd">创建日期</td>
+                    <td colspan="5">
+                        <input id="CreateTime" class="ctinput" onfocus="WdatePicker()" name="CreateTime" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">修改日期</td>
+                    <td colspan="2">
+                        <input id="ModifyDate" class="ctinput" onfocus="WdatePicker()" name="ModifyDate" />
+                    </td>
+                    <td class="ctd">修改件</td>
+                    <td>
+                        <input id="Amendment" class="ctinput" name="Amendment" />
+                    </td>
+                    <td class="ctd">题录类型</td>
+                    <td>
+                        <input id="TypesTitles" class="ctinput" name="TypesTitles" />
+                    </td>
+                    <td class="ctd">创建日期</td>
+                    <td colspan="2">
+                        <input id="CreateTime" class="ctinput" onfocus="WdatePicker()" name="CreateTime" />
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td class="ctd">加入方式</td>
+                    <td>
+                        <input id="WayAdding" class="ctinput" name="WayAdding" />
+                    </td>
+                    <td class="ctd">组织号</td>
+                    <td>
+                        <input id="OrganizationNumber" class="ctinput" name="OrganizationNumber" />
+                    </td>
+                    <td class="ctd">顺序号</td>
+                    <td>
+                        <input id="SequenceNumber" class="ctinput" name="SequenceNumber" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">年代号</td>
+                    <td>
+                        <input id="AgeNumber" class="ctinput" name="AgeNumber" />
+                    </td>
+                    <td class="ctd">最后修改</td>
+                    <td>
+                        <input id="LastModifiedIP" class="ctinput" name="LastModifiedIP" />
+                    </td>
+                    <td class="ctd">题录<font class="bitian" face="宋体">*</font></td>
+                    <td colspan="5" style="text-align:left;padding-left:10px;">
+
+
+
+                        <select id="TableName" name="TableName" required>
+                        </select>
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td class="ctd">标准状态<font class="bitian" face="宋体">*</font></td>
+                    <td colspan="5" style="text-align:left;padding-left:30px;">
+                        <input id="StandStatus" class="ctinput" type="text" name="StandStatus" />
+                        <div class="layui-form-item">
+                            <div class="layui-input-block">
+                                <input type="radio" name="sex" value="现行" title="现行" checked="">
+                                <input type="radio" name="sex" value="废止" title="废止">
+                            </div>
+                        </div>
+                    </td>
+                    <td class="ctd">代替标准</td>
+                    <td colspan="2">
+                        <input id="SubstituteStandard" class="ctinput" type="text" name="SubstituteStandard" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">被代替标准</td>
+                    <td colspan="2">
+                        <input id="SubstitutedStandard" class="ctinput" type="text" name="SubstitutedStandard" />
+                    </td>
+                    <td class="ctd">采用关系</td>
+                    <td colspan="2">
+                        <input id="AdoptionRelationship" class="ctinput" type="text" name="AdoptionRelationship" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">补充件</td>
+                    <td>
+                        <input id="Supplement" class="ctinput" type="text" name="Supplement" />
+                    </td>
+                    <td class="ctd">排序字段</td>
+                    <td>
+                        <input id="SortField" class="ctinput" type="text" name="SortField" />
+                    </td>
+                    <td class="ctd">是否作废</td>
+                    <td>
+                        <input id="Status" class="ctinput" type="text" name="Status" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="ctd">替代标准</td>
+                    <td>
+                        <input id="SubStandard" class="ctinput" type="text" name="SubStandard" />
+                    </td>
+                    <td class="ctd">是否审核</td>
+                    <td>
+                        <input id="IsAudited" class="ctinput" type="text" name="IsAudited" />
+                    </td>
+                    <td class="ctd">转换数字的排序字符</td>
+                    <td>
+                        <input id="ConvertCharacters" class="ctinput" type="text" name="ConvertCharacters" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">是否免费</td>
+                    <td colspan="5">
+                        <input id="isfree" class="ctinput" type="text" name="isfree" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ctd">电子文本来源</td>
+                    <td colspan="5">
+                        <div id="uploader" class="wu-example">
+                            <!--用来存放文件信息-->
+                            <div id="thelist" class="uploader-list"></div>
+                            <div class="btns">
+                                <div id="picker">选择文件</div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>-->
+            <!--规范性引用文件-->
+            <div class="content">
+                <table class="ctable" id="zguifan">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">规范性引用文件条目</td>
+                    </tr>
+                </table>
+            </div>
+            <!--附录-->
+            <div class="content">
+                <table class="ctable" id="zfulu">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">附录编号</td>
+                        <td class="ctd">附录内容</td>
+                    </tr>
+                </table>
+            </div>
+            <!--参考文献-->
+            <div class="content">
+                <table class="ctable" id="zcankao">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">参考文献条目</td>
+                    </tr>
+                </table>
+            </div>
+            <!--术语-->
+            <div class="content">
+                <table class="ctable" id="zshuyu">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">条目编号</td>
+                        <td class="ctd">术语名称</td>
+                        <td class="ctd">英文名称</td>
+                        <td class="ctd">术语定义</td>
+                        <td class="ctd">注</td>
+                        <td class="ctd">例</td>
+                        <td class="ctd">图表</td>
+                    </tr>
+                </table>
+            </div>
+
+
+            <div class="content">
+                <table class="ctable" id="zmuci">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">目次条目编号</td>
+                        <td class="ctd">目次条目内容</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="content">
+                <table class="ctable" id="zjiegou">
+                    <tr>
+                        <td class="ctd">类型</td>
+                        <td class="ctd">结构级别</td>
+                        <td class="ctd">结构编号</td>
+                        <td class="ctd">结构标题</td>
+                        <td class="ctd">结构内容</td>
+                        <td class="ctd">结构图表</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-1">
+
+                </div>
+                <div class="col-sm-9">
+                    <button id="addguifan" type="button" class="btn btn-success">增加规范性引用文件</button>
+                    <button id="addfulu" type="button" class="btn btn-success">增加附录</button>
+                    <button id="addcankao" type="button" class="btn btn-success">增加参考文献</button>
+                    <button id="addshuyu" type="button" class="btn btn-success">增加术语</button>
+                    <button id="addmuci" type="button" class="btn btn-success">增加目次</button>
+                    <button id="addjishu" type="button" class="btn btn-success">增加结构化内容</button>
+                    <button id="commit" type="submit" style="margin-left:30px;" class="btn btn-primary">提交</button>
+                    <button id="reset" type="button" style="margin-left:30px;" class="btn btn-danger">重置</button>
+                </div>
+            </div>
+        </form>*@
+
+    </div>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Content/bootstrap/bootstrap.min.js"></script>
+    <script src="~/Content/datepicker/WdatePicker.js"></script>
+    <script src="~/Content/webuploader/webuploader.js"></script>
+
+    <script src="~/Content/layui/layui/layui.js"></script>
+
+    <script src="~/Scripts/messages_zh.js"></script>
+    <script type="text/javascript">
+        $.lrToken = $('@Html.AntiForgeryToken()').val();
+    </script>
+
+    @Html.AppendJsFile("/Areas/LR_CodeDemo/Views/Standard/Add.js")
+</body>
+</html>

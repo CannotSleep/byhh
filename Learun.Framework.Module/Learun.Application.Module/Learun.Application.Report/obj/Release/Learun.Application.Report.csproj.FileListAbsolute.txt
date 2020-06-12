@@ -1,0 +1,125 @@
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Newtonsoft.Json.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Dapper.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Ioc.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OOXML.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\LumiSoft.Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Yahoo.Yui.Compressor.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Base.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Factory.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OpenXmlFormats.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OpenXml4Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\EcmaScript.NET.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Redis.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Redis.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Interfaces.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Text.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Common.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Newtonsoft.Json.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Dapper.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Ioc.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\LumiSoft.Net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Factory.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Redis.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Redis.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Interfaces.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Text.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Common.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Report.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Dapper.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Ioc.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OOXML.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\LumiSoft.Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\EcmaScript.NET.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Text.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Common.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.Repository.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Util.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Base.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Dapper.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Ioc.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\NPOI.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\LumiSoft.Net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Application.Organization.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\Learun.Cache.Redis.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Redis.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Interfaces.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Text.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\ServiceStack.Common.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\obj\Release\Learun.Application.Report.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\itextsharp.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.Report\bin\Release\itextsharp.xml

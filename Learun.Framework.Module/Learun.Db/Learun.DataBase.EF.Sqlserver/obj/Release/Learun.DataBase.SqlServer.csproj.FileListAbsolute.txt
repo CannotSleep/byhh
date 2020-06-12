@@ -1,0 +1,69 @@
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Dapper.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.SqlServer.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OOXML.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Newtonsoft.Json.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\LumiSoft.Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Yahoo.Yui.Compressor.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OpenXmlFormats.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OpenXml4Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EcmaScript.NET.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Dapper.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.SqlServer.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Newtonsoft.Json.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\LumiSoft.Net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.SqlServer.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Dapper.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OOXML.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\LumiSoft.Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EcmaScript.NET.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.Util.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Dapper.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\NPOI.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\LumiSoft.Net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\obj\Release\Learun.DataBase.SqlServer.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\itextsharp.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.EF.Sqlserver\bin\Release\itextsharp.xml

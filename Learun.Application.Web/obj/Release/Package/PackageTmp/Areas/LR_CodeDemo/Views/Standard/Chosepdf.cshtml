@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Chosepdf</title>
+    <link rel="stylesheet" href="~/Content/layui/layui/css/layui.css" media="all">
+
+    <style>
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        .media {
+            height: 100%;
+            width: 100%;
+        }
+
+        .panel-body {
+            height: 100%;
+            width: 100%;
+        }
+
+        .tfile {
+            margin-top:10px;
+            margin-left:10px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="panel-body">
+            <input id="pop_file"  class="tfile" type="file" accept=".pdf" onchange="uploadFile()" name="fileTrans" ref="file" value="" />
+        </div>
+    </div>
+    <script type="text/javascript" src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/Content/jquery/jquery.media.js"></script>
+    <script type="text/javascript">
+        function uploadFile() {
+            //console.log(11111)
+            var that = this;
+            const file = document.getElementById('pop_file');
+            const fileObj = file.files[0];
+            const windowURL = window.URL || window.webkitURL;
+            const pdf = document.getElementById('preview');
+            //console.log(file)
+            if (file && fileObj) {
+                const dataURl = windowURL.createObjectURL(fileObj);
+                //pdf.setAttribute('href', dataURl);
+                //$("#preview").media({ width: 600, height: 700 });  
+                window.open(dataURl,'_self')
+            }
+        }
+    </script>
+</body>
+</html>

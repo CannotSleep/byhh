@@ -1,0 +1,251 @@
+﻿@{
+    ViewBag.Title = "功能搜索和添加";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+    <div class="lr-form-wrap" id="form">
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">ID<font face="宋体">*</font></div>
+            <input id="Id" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">标准号<font face="宋体">*</font></div>
+            <input id="StandNum" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">发布日期<font face="宋体">*</font></div>
+            <input id="ReleaseDate" type="date" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">实施日期<font face="宋体">*</font></div>
+            <input id="ImplementationDate" type="date" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">废止日期<font face="宋体">*</font></div>
+            <input id="AbolitionDate" type="datetime" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">中文名称<font face="宋体">*</font></div>
+            <input id="ChineseName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">英文名称<font face="宋体">*</font></div>
+            <input id="EnglishName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">页数<font face="宋体">*</font></div>
+            <input id="Pages" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">代替标准<font face="宋体">*</font></div>
+            <input id="SubstituteStandard" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">被代替标准<font face="宋体">*</font></div>
+            <input id="SubstitutedStandard" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">采用关系<font face="宋体">*</font></div>
+            <input id="AdoptionRelationship" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">英文主题词<font face="宋体">*</font></div>
+            <input id="EnglishSubjectWords" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">CCS<font face="宋体">*</font></div>
+            <input id="BidWinningNo" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">ICS<font face="宋体">*</font></div>
+            <input id="ICS" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">GBN<font face="宋体">*</font></div>
+            <input id="ICS" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">最后修改时间<font face="宋体">*</font></div>
+            <input id="LastModifyTime" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">馆藏标志<font face="宋体">*</font></div>
+            <input id="CollectionMark" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">单行本<font face="宋体">*</font></div>
+            <input id="SingleCopy" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">全文光盘<font face="宋体">*</font></div>
+            <input id="CdRom" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">文本地址<font face="宋体">*</font></div>
+            <input id="TextAddress" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">修改件<font face="宋体">*</font></div>
+            <input id="Amendment" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">首次记录时间<font face="宋体">*</font></div>
+            <input id="FirstRecordingTime" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">题录类型<font face="宋体">*</font></div>
+            <input id="TypesTitles" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">加入方式<font face="宋体">*</font></div>
+            <input id="WayAdding" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">组织号<font face="宋体">*</font></div>
+            <input id="OrganizationNumber" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">顺序号<font face="宋体">*</font></div>
+            <input id="SequenceNumber" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">年代号<font face="宋体">*</font></div>
+            <input id="AgeNumber" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">最后修改IP<font face="宋体">*</font></div>
+            <input id="LastModifiedIP" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">适用范围<font face="宋体">*</font></div>
+            <input id="ScopeApplication" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">表名<font face="宋体">*</font></div>
+            <input id="TableName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">前言<font face="宋体">*</font></div>
+            <input id="Preface" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">引言<font face="宋体">*</font></div>
+            <input id="Introduction" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">发布单位<font face="宋体">*</font></div>
+            <input id="PublishingUnit" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">批准单位<font face="宋体">*</font></div>
+            <input id="ApprovedUnit" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">确认日期<font face="宋体">*</font></div>
+            <input id="ConfirmationDate" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">起草单位<font face="宋体">*</font></div>
+            <input id="DraftingUnit" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">备案号<font face="宋体">*</font></div>
+            <input id="RecordNumber" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">补充件<font face="宋体">*</font></div>
+            <input id="Supplement" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">中文主题词<font face="宋体">*</font></div>
+            <input id="ChineseThemeWords" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">标准类型<font face="宋体">*</font></div>
+            <input id="StandardType" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">提出单位<font face="宋体">*</font></div>
+            <input id="ProposedUnit" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">国民经济分类<font face="宋体">*</font></div>
+            <input id="ClassificationEconomy" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">原文名称<font face="宋体">*</font></div>
+            <input id="OriginalName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">标准状态<font face="宋体">*</font></div>
+            <input id="StandStatus" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">排序字段<font face="宋体">*</font></div>
+            <input id="SortField" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">创建日期<font face="宋体">*</font></div>
+            <input id="CreateTime" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">修改日期<font face="宋体">*</font></div>
+            <input id="ModifyDate" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否作废<font face="宋体">*</font></div>
+            <input id="Status" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">替代标准<font face="宋体">*</font></div>
+            <input id="SubStandard" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">电子文本来源<font face="宋体">*</font></div>
+            <input id="ElectronicSource" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">语种<font face="宋体">*</font></div>
+            <input id="Languages" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否有翻译<font face="宋体">*</font></div>
+            <input id="IsTranslation" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">归口单位<font face="宋体">*</font></div>
+            <input id="TechnicalCommittees" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否有翻译件<font face="宋体">*</font></div>
+            <input id="IsTranslationd" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">翻译件语种<font face="宋体">*</font></div>
+            <input id="TranslationLanguage" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">所属标委会<font face="宋体">*</font></div>
+            <input id="AffiliatedCommittee" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">标准所在合订本名称<font face="宋体">*</font></div>
+            <input id="NameTheStandard" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">ISBN<font face="宋体">*</font></div>
+            <input id="ISBN" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否审核<font face="宋体">*</font></div>
+            <input id="IsAudited" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">转换数字的排序字符<font face="宋体">*</font></div>
+            <input id="ConvertCharacters" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否免费<font face="宋体">*</font></div>
+            <input id="isfree" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+    </div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/Standard/Form.js")

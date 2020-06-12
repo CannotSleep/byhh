@@ -1,0 +1,39 @@
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Debug\Learun.Cache.Base.pdb

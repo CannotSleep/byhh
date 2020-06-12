@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "搜索统计";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="lr-form-wrap" id="form">
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Word<font face="宋体">*</font></div>
+        <input id="Word" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">SearchCount<font face="宋体">*</font></div>
+        <input id="SearchCount" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/SearchLogStatic/Form.js")

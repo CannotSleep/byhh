@@ -1,0 +1,128 @@
+﻿@{
+    ViewBag.Title = "";
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="images/favicon.ico" type="image/ico" />
+    <title></title>
+    <link href="~/Content/font/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .main_container {
+            text-align: center;
+        }
+
+        .title {
+            font-size: 32px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .condition {
+            width: 500px;
+            border-radius: 4px;
+            border: 1px solid #000;
+            height: 30px;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .btn-danger {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .btn-info {
+            width: 80px;
+        }
+
+        .resultgroup {
+            margin-top: 30px;
+        }
+
+        .resultitem {
+            border: 1px solid #dddddd;
+            border-radius: 3px;
+            text-align: left;
+            margin-top: 20px;
+            padding: 20px;
+        }
+
+        .itemtitle {
+        }
+
+        .itemcis {
+            margin-top: 5px;
+        }
+
+        .itemccs {
+            margin-top: 5px;
+        }
+
+        .itemfabu {
+            margin-top: 5px;
+        }
+
+        .itemshishi {
+            margin-top: 5px;
+        }
+
+        .itemstatus {
+            margin-top: 5px;
+        }
+
+        a {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            <div class="title">标准搜索</div>
+            <input class="condition" id="key" type="text" name="keyword" value="" />
+            <button id="search" type="button" class="btn btn-info">搜索</button>
+            <div id="resultt" class="resultgroup">
+            </div>
+            <div id="example" style="text-align: center"> <ul class="pagination"></ul></div>
+            <div id="totalnum"></div>
+            <!-- 提示模态框（Modal） -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog" style="width:300px">
+                    <div class="modal-content">
+                        <div class="modal-body" style="font-size:16px;font-weight:bold">确定删除标准？</div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">取消</button>
+                            <button type="button" onclick="confirm()" class="btn btn-danger">确认</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal -->
+            </div>
+            <!-- 添加完毕模态框 -->
+            <div class="modal fade" id="suModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body" style="background-color:#DEF0D8;color:#6e996b">
+                            删除成功
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div><!-- /.modal -->
+        </div>
+    </div>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/bootstrap/bootstrap.min.js"></script>
+    <script src="~/Content/bootstrap/bootstrap-paginator.min.js"></script>
+
+    @Html.AppendJsFile("/Areas/LR_CodeDemo/Views/SearchEngine/SeaIndex.js")
+</body>
+</html>
+

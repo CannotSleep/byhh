@@ -1,0 +1,17 @@
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\bin\Release\Learun.Loger.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\bin\Release\Learun.Loger.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\bin\Release\log4net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\bin\Release\log4net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\bin\Release\Learun.Loger.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\bin\Release\Learun.Loger.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\bin\Release\log4net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\bin\Release\log4net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Log\obj\Release\Learun.Loger.pdb

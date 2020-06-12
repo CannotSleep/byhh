@@ -1,0 +1,381 @@
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Application.OA.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.Repository.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Barcode.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DataExport.ResourceMgr.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Doc.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.License.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Pdf.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.Presentation.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Spire.XLS.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Learun.Ioc.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\obj\Debug\Learun.Application.OA.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Application.Module\Learun.Application.OA\bin\Debug\itextsharp.xml

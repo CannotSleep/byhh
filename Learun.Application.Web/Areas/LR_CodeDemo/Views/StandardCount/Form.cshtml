@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "标准费用计算";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+
+    <style>
+        .lr-form-item-title {
+            width: 140px;
+        }
+
+        .form-control {
+            display: block;
+            width: 80%;
+        }
+        .lr-form-item {
+            padding: 5px 0 5px 140px;
+        }
+
+        .lr-select {
+            width: 80%;
+        }
+
+    </style>
+<div class="lr-form-wrap" id="form">
+    <div class="col-xs-6 lr-form-item" style="display:none">
+        <div class="lr-form-item-title">id<font face="宋体">*</font></div>
+        <input id="id" type="text" class="form-control"/>
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">创建日期</div>
+        <input id="createDate" class="form-control" type="datetime" onfocus="WdatePicker()" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">修改日期</div>
+        <input id="modifyDate" class="form-control" type="datetime" onfocus="WdatePicker()" />
+    </div>
+    @*<div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">pageSize<font face="宋体">*</font></div>
+        <input id="pageSize" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>*@
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国内标准每页单价折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="unit" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国内基本费用折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="basicCost" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国内过期标准费用折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="overdueCost" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    @*<div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">isDefault<font face="宋体">*</font></div>
+        <input id="isDefault" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>*@
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国外标准每页单价折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="funit" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">会员等级<font face="宋体">*</font></div>
+        @*<input id="memberRank_id" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />*@
+        <div id="memberRank_id"></div>
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国外标准基本费用折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="fbasicCost" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            国外过期标准费用折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="foverdueCost" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">
+            托管费用折扣
+            <font face="宋体">*</font>
+        </div>
+        <input id="depositePrice" type="text" class="form-control" isvalid="yes" checkexpession="Double" />
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/StandardCount/Form.js")

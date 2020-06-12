@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta name=”renderer” content=”webkit|ie-comp|ie-stand” />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link rel="icon" href="~/favicon.ico">
+    <title>内蒙古标准文献平台 - 登录页面</title>
+    <script src="http://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js"></script>
+
+    <style>
+        .bylogo {
+            top: 30%;
+            left: 0;
+            width: 50%;
+            height: 20%;
+        }
+
+
+    </style>
+
+</head>
+
+<body>
+    @Html.AppendCssFile("/Views/Login/Default/Index.css")
+
+    <img src="~/Content/images/banner1.jpg" />
+    <img class="bylogo" src="~/Content/images/loginbg.png" />
+
+   <input id="errornum" type="hidden" value="@ViewBag.errornum" />
+    <div class="lr-login-body" >
+        <div class="lr-login-logo">
+            @*<img src="~/Content/images/Login/logow.png" alt="">*@
+            <div class="lr-login-title" style="left:3%">
+                内蒙古标准文献公共服务平台
+            </div>
+        </div>
+        <div class="lr-login-middle" style="box-shadow: rgb(11, 234, 235) 0px 0px 10px inset;">
+            <!--登录框 正常登录-->
+            <div class="lr-login-main lr-login-normal">
+                <!--密码登录-->
+                <div class="lr-login-bypsw noreg">
+                    <div class="error_info">*&nbsp;<span>密码不正确</span></div>
+                    <div class="lr-login-input">
+                        <img class="inp_icon" src="~/Content/images/Login/default_account0.png" alt=""> <input id="lr_username" type="text" placeholder="手机号/帐号">
+                    </div>
+                    <div class="lr-login-input">
+                        <img class="inp_icon" src="~/Content/images/Login/default_psw0.png" alt=""><input id="lr_password" type="password" placeholder="密码">
+                        <span id="psw_change"></span>
+                    </div>
+                    <div class="lr-login-input lr-login-reg">
+                        <img class="inp_icon" src="~/Content/images/Login/default_reg0.png" alt=""><input id="lr_verifycode_input" type="text" placeholder="验证码">
+                        <img class="code" id="lr_verifycode_img" src="~/Login/VerifyCode" alt="点击切换验证码" title="点击切换验证码" />
+                    </div>
+                    <div class="lr-login-btn" id="lr_login_btn"><span>登录</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="lr-login-footer"> <p>Copyright © 2018 同方知网 备案号：京ICP备14034717号 版权所有</p></div>
+
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/jquery/jquery.md5.min.js"></script>
+    <script>
+        function request(d) { for (var c = location.search.slice(1).split("&"), a = 0; a < c.length; a++) { var b = c[a].split("="); if (b[0] == d) if ("undefined" == unescape(b[1])) break; else return unescape(b[1]) } return "" };
+        $.rootUrl = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        $.lrToken = $('@Html.AntiForgeryToken()').val();
+    </script>
+    @Html.AppendJsFile("/Views/Login/Default/Index.js")
+</body>
+</html>

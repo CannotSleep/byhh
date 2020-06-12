@@ -1,0 +1,130 @@
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\标院\20200302\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Factory.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Base.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\Learun.Cache.Redis.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Text.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\bin\Debug\ServiceStack.Common.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Cache\LeaRun.Cache.Factory\obj\Debug\Learun.Cache.Factory.pdb

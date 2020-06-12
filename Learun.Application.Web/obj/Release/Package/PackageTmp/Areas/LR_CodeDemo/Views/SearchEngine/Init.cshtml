@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Init</title>
+    <style>
+        body {
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <h1>引擎初始化</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>表名</th>
+                <th>初始化</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+
+        </tbody>
+    </table>
+    <button id="updateall">更新所有</button>
+    <script src="~/Content/jquery/jquery-1.10.2.min.js"></script>
+    <script src="~/Content/bootstrap/bootstrap.min.js"></script>
+    <script src="~/Content/bootstrap/bootstrap-paginator.min.js"></script>
+    @Html.AppendJsFile("/Areas/LR_CodeDemo/Views/SearchEngine/Init.js")
+
+</body>
+</html>

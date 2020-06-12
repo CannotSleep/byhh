@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "标准题录";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="lr-form-wrap" id="form">
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">ID<font face="宋体">*</font></div>
+        <input id="ID" type="text" class="form-control" isvalid="yes" checkexpession="NotNull"  readonly="readonly"/>
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">组织ID<font face="宋体">*</font></div>
+        <input id="OraganId" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">组织编码<font face="宋体">*</font></div>
+        <input id="OraganizationCode" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">组织名称<font face="宋体">*</font></div>
+        <input id="OraganizationName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">分类码<font face="宋体">*</font></div>
+        <input id="CategoryCode" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Bz<font face="宋体">*</font></div>
+        <input id="Bz" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">创建日期<font face="宋体">*</font></div>
+        <input id="CreateDate" type="text" class="form-control lr-input-wdatepicker" checkexpession="NotNull" onfocus="WdatePicker()"/>
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">修改日期<font face="宋体">*</font></div>
+        <input id="ModifyDate" type="text" class="form-control lr-input-wdatepicker"  checkexpession="NotNull" onfocus="WdatePicker()"/>
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">组织order<font face="宋体">*</font></div>
+        <input id="OraganizationOrder" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Copr<font face="宋体">*</font></div>
+        <input id="Copr" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Synchronous<font face="宋体">*</font></div>
+        <input id="Synchronous" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">Discount<font face="宋体">*</font></div>
+        <input id="Discount" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">1启用0禁用<font face="宋体">*</font></div>
+        <input id="IsUsed" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-6 lr-form-item">
+        <div class="lr-form-item-title">OrderCode<font face="宋体">*</font></div>
+        <input id="OrderCode" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/StandardTitle/Form.js")

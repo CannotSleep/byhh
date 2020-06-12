@@ -1,0 +1,83 @@
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Dapper.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Ioc.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OOXML.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Newtonsoft.Json.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\LumiSoft.Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Yahoo.Yui.Compressor.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OpenXmlFormats.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OpenXml4Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\EcmaScript.NET.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Ioc.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Dapper.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Newtonsoft.Json.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\LumiSoft.Net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Dapper.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Ioc.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OOXML.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\LumiSoft.Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\EcmaScript.NET.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Ioc.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.Util.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Dapper.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\NPOI.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\LumiSoft.Net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\obj\Release\Learun.DataBase.Repository.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\itextsharp.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.Repository\bin\Release\itextsharp.xml

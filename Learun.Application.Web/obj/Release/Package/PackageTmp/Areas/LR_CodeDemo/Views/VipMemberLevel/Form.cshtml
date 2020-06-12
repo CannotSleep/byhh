@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "会员等级";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+    <div class="lr-form-wrap" id="form">
+        <div class="col-xs-6 lr-form-item" style="display:none">
+            <div class="lr-form-item-title">id<font face="宋体">*</font></div>
+            <input id="id" type="text" class="form-control"/>
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">名称<font face="宋体">*</font></div>
+            <input id="name" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">创建日期</div>
+            <input id="createDate" class="form-control" type="datetime" onfocus="WdatePicker()" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">修改日期</div>
+            <input id="modifyDate" class="form-control" type="datetime" onfocus="WdatePicker()" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">是否默认<font face="宋体">*</font></div>
+            <div class="checkbox">
+                <label>
+                    <input id="isDefault" type="checkbox" checked="false"/>
+                    是否默认(选中后新注册会员则为此等级)
+                </label>
+            </div>
+        </div>
+
+
+        @*<div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">point<font face="宋体">*</font></div>
+            <input id="point" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">preferentialScale<font face="宋体">*</font></div>
+            <input id="preferentialScale" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">ouid_id<font face="宋体">*</font></div>
+            <input id="ouid_id" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">organname<font face="宋体">*</font></div>
+            <input id="organname" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">parent_id<font face="宋体">*</font></div>
+            <input id="parent_id" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>
+        <div class="col-xs-6 lr-form-item">
+            <div class="lr-form-item-title">uploadSpacepaceSize<font face="宋体">*</font></div>
+            <input id="uploadSpacepaceSize" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+        </div>*@
+    </div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/VipMemberLevel/Form.js")

@@ -1,0 +1,219 @@
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\2019\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\Long.Learun.Framework.7.0.2-master\Code\Learun.Framework V7.01 pro\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.dll
+D:\by\byh\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.MySqlEx.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OOXML.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EcmaScript.NET.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.Util.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.pdb
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Learun.DataBase.dll.config
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Dapper.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\NPOI.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\LumiSoft.Net.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.xml
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.csproj.CopyComplete
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.dll
+C:\Users\Z\Desktop\标院\20200302\by\Code\by\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\obj\Debug\Learun.DataBase.MySqlEx.pdb
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.dll
+D:\by\byh\byh\Learun.Framework.Module\Learun.Db\Learun.DataBase.MySql\bin\Debug\itextsharp.xml

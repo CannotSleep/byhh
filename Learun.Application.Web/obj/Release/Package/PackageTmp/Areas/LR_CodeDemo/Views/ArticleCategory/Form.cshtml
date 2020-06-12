@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "文章分类表";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="lr-form-wrap">
+    <div class="col-xs-12 lr-form-item"  data-table="ArticleCategory" >
+        <div class="lr-form-item-title">名称<font face="宋体">*</font></div>
+        <input id="name" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 lr-form-item"  data-table="ArticleCategory" >
+        <div class="lr-form-item-title">描述</div>
+        <textarea id="metaDescription" class="form-control" style="height:100px;"  ></textarea>
+    </div>
+    <div class="col-xs-12 lr-form-item"  data-table="ArticleCategory" >
+        <div class="lr-form-item-title">排序<font face="宋体">*</font></div>
+        <input id="orderList" type="text" class="form-control" isvalid="yes" checkexpession="Num" />
+    </div>
+    <div class="col-xs-12 lr-form-item"  data-table="ArticleCategory" >
+        <div class="lr-form-item-title">关键字</div>
+        <textarea id="metaKeywords" class="form-control" style="height:100px;"  ></textarea>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_CodeDemo/Views/ArticleCategory/Form.js")
